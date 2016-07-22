@@ -1,0 +1,8 @@
+node_modules
+dist
+app/bower_components
+app/bundles
+*.log
+public/
+.DS_Store
+npm-debug.log
