@@ -7,7 +7,7 @@ const Header = (props) => {
     <header className="header">
       <div className="header1">
        <span>&lt;</span>
-        <Link to="#">findout</Link>
+        <Link to="#">magichouse</Link>
       </div>
       <div className="header2">
         <Link className={"header2_nav"+(props.id==0?' active':'')} to={"home/0"} >推荐</Link>
