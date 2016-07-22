@@ -8,7 +8,8 @@ This starterkit does not include some fancy UI stuff but is a lightweight starti
 ## Get the kit
 
 ```
-$ git clone https://github.com/wbkd/react-starterkit.git && cd react-starterkit
+$ git clone  https://github.com/fiowind/xingzuo.git && cd react-starterkit
+
 ```
 
 ## Installation
@@ -91,4 +92,8 @@ You can find all loaders in this [list](http://webpack.github.io/docs/list-of-lo
 ###Requirements
 * node
 * npm
+<<<<<<< HEAD
 * gulp
+=======
+* gulp
+>>>>>>> 3827ea1f5347f0d954c72fac97106b322c6f40ac
